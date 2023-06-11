@@ -1,7 +1,7 @@
 # lessons-cpp
-
-- Object Oriented Concpets basic lessons :
-
+------------------------------------------
+** Object Oriented Concpets basic lessons **
+------------------------------------------
 - -Aggregation
 - -Bidirectional Association
 - -Composition
@@ -9,5 +9,5 @@
 - -Inheritance
 - -Polymorphism
 - -Unidirectional Association
-
+------------------------------------------
 - By : Damith Bandara
