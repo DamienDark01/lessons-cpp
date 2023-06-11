@@ -1,6 +1,6 @@
 # lessons-cpp
 
-**Object Oriented Concpets basic lessons**
+**Object Oriented Concpets (OOC) Basic Lessons**
 
 ------------------------------------------
 - Aggregation
