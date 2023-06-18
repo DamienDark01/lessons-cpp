@@ -9,13 +9,13 @@ Department::Department() {
   // empty
 }
 
-// overloaded constructor
-// - set the parametric values to the Employee objects inside the Department class
+// set the parametric values to the Employee objects inside the Department class
 void Department::addEmployee(Employee* emp1, Employee* emp2) {
 	emp[0] = emp1;
 	emp[1] = emp2;
 }
 
+// - separate methods interact with the objects created
 void Department::displayDepartment() {
 	for (int i = 0; i < 2; i++) {
 		emp[i]->displayEmployee();
