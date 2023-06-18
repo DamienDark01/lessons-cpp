@@ -3,6 +3,7 @@
 
 using namespace std;
 
+// this class is an abstract class since there is a pure virtual method
 class Animal {
 protected:
   string animalName;
