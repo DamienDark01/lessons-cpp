@@ -16,6 +16,7 @@ void Department::addEmployee(Employee* emp1, Employee* emp2) {
 	emp[1] = emp2;
 }
 
+// - separate methods interact with the objects created
 void Department::displayDepartment() {
 	for (int i = 0; i < 2; i++) {
 		emp[i]->displayEmployee();
