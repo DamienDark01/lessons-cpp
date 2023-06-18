@@ -11,6 +11,7 @@ private:
 	Customer* customer;
 
 public:
+  Order();
 	Order(string id, Customer cus);
 	void displayOrder();
 };
